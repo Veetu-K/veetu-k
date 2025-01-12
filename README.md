@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="[https://your-gif-url-here.gif](https://camo.githubusercontent.com/11dc5577ce1953c197dcf004991782ef4cabb9557ef0881c003e2e6b8f54ae47/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6136646332366130386262313834633137366264343230643134393832396235)" alt="GIF" width="400"/>
+  <img src="https://camo.githubusercontent.com/11dc5577ce1953c197dcf004991782ef4cabb9557ef0881c003e2e6b8f54ae47/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6136646332366130386262313834633137366264343230643134393832396235" alt="GIF" width="400"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veetu-k&label=Profile%20views&color=0e75b6&style=flat" alt="veetu-k" /> </p>
